@@ -1,0 +1,14 @@
+.lf_link{color: #cc33cc; font-size: 18px;}
+.ablink{color: #cc33cc; font-size: 18px; text-decoration: underline;}
+.linkbox{padding: 5px 0 5px 0;}
+.tltext{color: #cc33cc; font-size: 28px; margin: 0 5px 0 5px;}
+.ntext{color: #cc33cc; font-size: 18px;}
+.pftext{color: #cc33cc; font-size: 20px;}
+.stline{width: 80%;}
+.endline{width: 30%;}
+.boxprofile{background-color: white; box-shadow: 0 4px 8px 0 rgba(0 , 0 , 0 , 0.2) , 0 6px 20px 0 rgba(0 , 0 , 0 , 0.19); margin-bottom: 25px; width: 70%;}
+.setsbox{display: block; margin: 20px auto 20px;}
+.ftext{color: #ef5eef; font-size: 24px;}
+.boxpvwph{width: 33%;}
+.seesets{color: #ef5eef; font-size: 22px; text-decoration: underline;}
+.pvwset{border-collapse: collapse; border: 1px solid #ccc; width: 100%px;}
